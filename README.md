@@ -2838,8 +2838,6 @@ Most new instances support this and have this enabled by default for no charge.
 
 ---
 
-![enter image description here](./dns.jpg)
-
 ## 1.10. Route-53
 
 ### 1.10.1. Public Hosted Zones
